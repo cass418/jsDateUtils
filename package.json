@@ -1,0 +1,20 @@
+{
+  "name": "jsdateutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dateUtils.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cass418/jsDateUtils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cass418/jsDateUtils/issues"
+  },
+  "homepage": "https://github.com/cass418/jsDateUtils#readme",
+  "type": "module"
+}
